@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title><b>Resume</b></title>
+</head>
+<body bgcolor="#9fabf5">
+<img src="/home/6CSE5/Desktop/workplace.jpg" style="float:right" width="150" height="120"/>
+<h1 ><b><left>KAUSHIK C</left></b></h1>
+<a href="mailto:kaushikchodavarpu@gmail.com" align="left">kaushikchodavarpu@gmail.com</a>
+<p><left>+91 9986729293</left></p>
+<hr/>
+<h1><b><left>CV Highlights</left></b></h1>
+<ul>
+ <li>Aspiring CSE Student</li>
+ <li>Volunteerting</li>
+ <li>Sports</li>
+ <li>Marketing</li>
+</ul>
+<hr/>
+<h1><b><left>Professional Experience</left></b></h1>
+<ul>
+  <h><li>AIESEC</li><h>
+   <ul type="circle">
+     <li>Vice Preisdent Marketing</li>
+   </ul>
+<li>Barcode Marketing Solutions</li>
+   <ul type="circle">
+   <li>Branding</li>
+   <li>Strategizing</li>
+   <li>Execution</li></ul>
+</ul>
+<hr/>
+<h1><b><left>Education</left></b></h1>
+  <table border="1" width=80%>
+  <tr>
+   <th>Qualification</th>
+   <th>Board</th>
+   <th>%/MARKS</th>
+   <th>Year</th>
+  </tr>
+   <tr>
+     <td align="center">B.tech</td> 
+     <td align="center">Presidency University Bangalore</td>
+     <td align="center">70%</td>
+     <td align="center">2021</td>
+  </tr>
+  <tr>
+     <td align="center">Pre University</td> 
+     <td align="center">Narayana PU College</td>
+     <td align="center">84%</td>
+     <td align="center">2017</td>
+  </tr>
+<tr>
+     <td align="center">ICSE</td> 
+     <td align="center">MESKKPS</td>
+     <td align="center">80.4%</td>
+     <td align="center">2015</td>
+  </tr>
+</table>
+<hr/>
+ <h1><left>Technical Skills</left></h1>
+  <ul type="circle">
+    <li style="color:red">Computer Science</li>
+     <ul type="1">
+      <li>C - Data Structures</li>
+      <li>HTML</li>
+      <li>Object Oriented Programming</li>
+     </ul>
+   </ul>
+<hr/>
+<h1><left>Certifications/Awards</left></h1>
+   <ul type="circle">
+    <li>AIESEC</li>
+     <ul type="1">
+      <li>Awarded Best Managerial Board Member</li>
+     </ul>
+    <li>Certified by CSI - Microsoft </li>
+   </ul>
+<hr/>
+ <h1><left>Personal Info</left></h1>
+   <ul type="circle">
+      <li>Name:Kaushik</li>
+      <li>DOB:16/12/1998</li>
+      <li>Languages Known :English, Kannada, Telugu</li>
+      <li>Father Name:Srinivas</li>
+   </ul>
+<hr/>
+ <h1><left>Declaration</left></h1>
+  <p>I hereby to declare that all the information in this are true and belief to the best of my Knowledge</p>
+ </body>
+</html>
